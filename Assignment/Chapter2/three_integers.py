@@ -1,0 +1,6 @@
+number1 = input("Enter number ")
+number2 = input("Enter number ")
+number3 = input("Enter number ")
+print("sum is ", number1+number2+number3)
+print("Average is ", (number1 + number2 + number)/3)
+print("product is ", number1*number2*number3)
