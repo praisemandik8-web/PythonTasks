@@ -6,6 +6,6 @@ rem_seconds1 = seconds % 3600
 
 minutes = rem_seconds1 // 60
 
-seconds2 = rem_seconds1// 60
+seconds2 = seconds % 60
 
-print(hours, minutes, seconds2)
+print("hours",hours, "minutes",minutes, "Seconds",seconds2)
