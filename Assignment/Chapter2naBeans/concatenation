@@ -1,0 +1,11 @@
+String Concatenation
+
+declare first_name variable and asign to user input
+prompt user to enter input "First name"
+input the String
+
+declare second_name variable and asign to user input
+prompt user to enter input "Last name"
+input the String
+
+print "welcome", firstname + Last name

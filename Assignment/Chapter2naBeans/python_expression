@@ -1,0 +1,5 @@
+Average of 5 Numbers
+(10 + 20 + 30 + 40 + 50/50)
+the bug is in the operand precedence.
+hence;
+(10 + 20 + 30 + 40 + 50)/50

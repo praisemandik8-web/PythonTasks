@@ -1,0 +1,13 @@
+weather1 = raining
+weather2 = not raining
+
+prompt user to enter input "Enter weather1 or weather2"
+input the String
+
+if user input = weather1
+print "it is" weather1
+print "take an umbrella
+
+else 
+print "it is" weather2
+print "put on sunscreen"

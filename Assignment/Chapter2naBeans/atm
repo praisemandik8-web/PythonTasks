@@ -1,0 +1,9 @@
+ALgorithm for Withdrawing Cash
+1. user slots in card in atm machine
+2. user types in 4 digit pin
+3. if pin is correct, open the account selection page
+4. else, print "invalid pin"
+5. user selects account type
+6. user types in amount to be withdrawn
+7. if amount wanted by user is greater than account balance, print "insufficient balance"
+8. Else, user receives amount wanted.
